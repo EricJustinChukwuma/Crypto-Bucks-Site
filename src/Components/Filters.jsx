@@ -38,7 +38,7 @@ const Filters = () => {
           onSubmit={handleCurrencySubmit}
         >
           <label htmlFor="currency"
-            className="relative flex justify-center items-center lg:mr-2 font-bold"
+            className="relative flex justify-center items-center xs:mr-7 md:mr-4 lg:mr-2 font-bold"
           >
             Currency:
           </label>
